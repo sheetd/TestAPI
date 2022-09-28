@@ -1,7 +1,7 @@
 {
-    "name": "testapi",
+    "name": "dockertesting",
     "version": "1.0.0",
-    "description": "testing",
+    "description": "testing app for Docker",
     "main": "app.js",
     "scripts": {
         "start": "node app.js"
