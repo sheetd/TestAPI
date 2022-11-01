@@ -12,3 +12,4 @@ https://github.com/fireship-io/docker-nodejs-basic-demo
 ## To Run on local machine 
     npm install
     npm start (or use node ./app.js)
+    (or use forever to run in background if you have that installed) forever start ./app.js
