@@ -2,9 +2,9 @@
 version: 1.0
 runtime: nodejs16
 build:
-  commands:    
-    - npm install                                 
-run:                              
+  commands:
+    - npm install
+run:
   command: npm start
 network:
   port: 3000

@@ -1,14 +1,14 @@
 {
-    "name": "dockertesting",
-    "version": "1.0.0",
-    "description": "testing app for Docker",
-    "main": "app.js",
-    "scripts": {
-        "start": "node app.js"
-    },
-    "keywords": [],
-    "license": "MIT",
-    "dependencies": {
-        "express": "^4.18.1"
-    }
+  "name": "dockertesting",
+  "version": "1.0.0",
+  "description": "testing app for Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
